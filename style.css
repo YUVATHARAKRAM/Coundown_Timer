@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-sizing: border-box;
+}
+.container{
+    width: 100vw;
+    height: 100vw;
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.j1TVGvWSo8GNXpkjtfNe8QHaEK&pid=Api&P=0&h=180");
+    background-position: center;
+    background-size: cover;
+    padding: 0 8%;
+}
+h2{
+    padding: 20px;
+    cursor: pointer;
+    font-size:200%;
+    color: azure;
+}
+.content{
+    top: 40%;
+    left: 10%;
+    position: absolute;
+    size: 150%;
+}
+h1 {
+    font-weight: normal;
+    letter-spacing: .125rem;
+    text-transform: uppercase;
+    color: blue;
+  }
+  li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 20px;
+    color: aliceblue;
+  }
+  li span{
+    font-size: 1.5em;
+  }
+  li p{
+    font-size: 3em;
+  }
+h1 span{
+    color: aquamarine;
+}
+.horse{
+    bottom: 20%;
+}
